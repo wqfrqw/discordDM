@@ -1,4 +1,4 @@
-//META{"name":"DMMessagePrefix","website":"https://github.com/DMMessagePrefixBD/DMMessagePrefix","source":"https://raw.githubusercontent.com/DMMessagePrefixBD/DMMessagePrefix/master/DMMessagePrefix.plugin.js"}*//
+//META{"name":"DMMessagePrefix","website":"https://github.com/wqfrqw/discordDM","source":"https://raw.githubusercontent.com/DMMessagePrefixBD/DMMessagePrefix/master/DMMessagePrefix.plugin.js"}*//
 
 class DMMessagePrefix {
 	getName () {return "DMMessagePrefix";}
